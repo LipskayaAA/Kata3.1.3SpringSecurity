@@ -1,4 +1,4 @@
-package com.gaik.springbootsecurity.configs;
+package com.lipa.springbootsecurity.configs;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;

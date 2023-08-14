@@ -1,4 +1,4 @@
-package com.gaik.springbootsecurity;
+package com.lipa.springbootsecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

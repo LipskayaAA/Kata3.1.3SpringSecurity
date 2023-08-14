@@ -1,4 +1,4 @@
-package com.gaik.springbootsecurity.model;
+package com.lipa.springbootsecurity.model;
 
 import org.springframework.security.core.GrantedAuthority;
 

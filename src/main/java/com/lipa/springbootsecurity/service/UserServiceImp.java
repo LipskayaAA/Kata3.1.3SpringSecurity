@@ -1,8 +1,8 @@
-package com.gaik.springbootsecurity.service;
+package com.lipa.springbootsecurity.service;
 
-import com.gaik.springbootsecurity.dao.UserDao;
-import com.gaik.springbootsecurity.model.Role;
-import com.gaik.springbootsecurity.model.User;
+import com.lipa.springbootsecurity.dao.UserDao;
+import com.lipa.springbootsecurity.model.Role;
+import com.lipa.springbootsecurity.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

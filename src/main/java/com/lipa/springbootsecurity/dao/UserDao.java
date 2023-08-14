@@ -1,9 +1,9 @@
-package com.gaik.springbootsecurity.dao;
+package com.lipa.springbootsecurity.dao;
 
 
 
-import com.gaik.springbootsecurity.model.Role;
-import com.gaik.springbootsecurity.model.User;
+import com.lipa.springbootsecurity.model.Role;
+import com.lipa.springbootsecurity.model.User;
 
 import java.util.List;
 import java.util.Set;

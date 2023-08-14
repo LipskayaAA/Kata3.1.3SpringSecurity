@@ -1,7 +1,7 @@
-package com.gaik.springbootsecurity.controller;
+package com.lipa.springbootsecurity.controller;
 
-import com.gaik.springbootsecurity.model.User;
-import com.gaik.springbootsecurity.service.UserService;
+import com.lipa.springbootsecurity.model.User;
+import com.lipa.springbootsecurity.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;

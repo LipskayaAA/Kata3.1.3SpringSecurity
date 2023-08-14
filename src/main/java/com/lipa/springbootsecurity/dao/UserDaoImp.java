@@ -1,9 +1,8 @@
-package com.gaik.springbootsecurity.dao;
+package com.lipa.springbootsecurity.dao;
 
 
-import com.gaik.springbootsecurity.model.Role;
-import com.gaik.springbootsecurity.model.User;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.lipa.springbootsecurity.model.Role;
+import com.lipa.springbootsecurity.model.User;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Repository;

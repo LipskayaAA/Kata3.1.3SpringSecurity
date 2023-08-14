@@ -1,4 +1,4 @@
-package com.gaik.springbootsecurity.configs;
+package com.lipa.springbootsecurity.configs;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.authority.AuthorityUtils;

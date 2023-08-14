@@ -1,6 +1,6 @@
-package com.gaik.springbootsecurity.configs;
+package com.lipa.springbootsecurity.configs;
 
-import com.gaik.springbootsecurity.service.UserServiceImp;
+import com.lipa.springbootsecurity.service.UserServiceImp;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.authentication.dao.DaoAuthenticationProvider;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

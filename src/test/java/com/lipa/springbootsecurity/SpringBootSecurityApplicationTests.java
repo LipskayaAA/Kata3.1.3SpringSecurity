@@ -1,4 +1,4 @@
-package com.gaik.springbootsecurity;
+package com.lipa.springbootsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
